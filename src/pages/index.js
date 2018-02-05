@@ -8,14 +8,16 @@ const IndexPage = () => (
       <Helmet>
         <script src="https://scripts.sirv.com/sirv.js"></script>
       </Helmet>
-      <PageTitle>July Catalogue</PageTitle>
+      <PageTitle>Jewellery</PageTitle>
       <ProductContainer>
-        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Egg-Chair/Egg%20Chair%20Anniversary.spin" />
-        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Egg-Chair/Egg%20Chair%20Anniversary.spin" />
-        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Egg-Chair/Egg%20Chair%20Anniversary.spin" />
-        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Trainers/Trainers.spin" />
-        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Trainers/Trainers.spin" />
-        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Trainers/Trainers.spin" />
+        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Jewellery/Jewellery.spin" />
+        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Jewellery/Ring%202/Ring%202.spin" />
+        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Jewellery/Bracelet/Bracelet.spin" />
+        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Jewellery/Ring%201/Ring%201.spin" />
+        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Jewellery/Bracelet%20Two/Bracelet%20Two.spin" />
+        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Jewellery/earring%20Indian%20Gold/earring%20Indian%20Gold.spin" />
+        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Jewellery/Moonstone%20Ring/Moonstone%20Ring.spin" />
+        <ProductItem className="Sirv" data-src="https://peggiblo.sirv.com/Spins/Jewellery/Wedding%20Ring/Wedding%20Ring.spin" />
       </ProductContainer>
     </PageContainer>
 )
